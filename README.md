@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xPoleStarx
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on cyber security and AI
 - 📫 How to reach me seyfullahkorkmaz115@gmail.com
 
 <!---
