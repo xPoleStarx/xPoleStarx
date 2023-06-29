@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m @xPoleStarx<br>👀 I’m interested in computer science<br>🌱 I’m currently learning coding<br>💞️ I’m looking to collaborate on cyber security and AI<br>📫 How to reach me seyfullahkorkmaz115@gmail.com 
 
-<a href="https://www.buymeacoffee.com/xPoleStarx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="60" width="180"></a> 
+<a href="https://www.buymeacoffee.com/xPoleStarx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="60" width="200"></a> 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/xpolestarx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/seyfullah-korkmaz-pole) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/seyfosphere) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Seyfosphere) 
 
