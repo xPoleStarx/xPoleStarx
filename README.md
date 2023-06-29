@@ -20,5 +20,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=xPoleStarx&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://www.buymeacoffee.com/xPoleStarx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
