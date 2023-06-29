@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hi, I’m @xPoleStarx<br>👀 I’m interested in computer science<br>🌱 I’m currently learning coding<br>💞️ I’m looking to collaborate on cyber security and AI<br>📫 How to reach me seyfullahkorkmaz115@gmail.com <a href="https://www.buymeacoffee.com/xPoleStarx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a> 
+👋 Hi, I’m @xPoleStarx<br>👀 I’m interested in computer science<br>🌱 I’m currently learning coding<br>💞️ I’m looking to collaborate on cyber security and AI<br>📫 How to reach me seyfullahkorkmaz115@gmail.com 
+<a href="https://www.buymeacoffee.com/xPoleStarx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a> 
 
 
 ## 🌐 Socials:
